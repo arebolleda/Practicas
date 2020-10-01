@@ -12,7 +12,7 @@
         <div class="">
             <?php
                 #Se recoge la variable default y se corta hasta el punto,se guardan las dos mitades 192 y .168.16.204;
-                #con ello se elimina el primer . y se realiza a misma operacion de nuevo. Luego con printf se transforma a binario.
+                #con ello se elimina el primer . y se realiza a misma operacion de nuevo. Luego con decbin se transforma a binario.
                 $default="192.168.16.204";
                 $ip1=strchr("$default",".",true);
                 $spare=strchr("$default",".");

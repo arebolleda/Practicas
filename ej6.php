@@ -84,7 +84,7 @@
                         echo "La letra es: E";
                         break;
                     default:
-                        echo "Error de algun tipo."
+                        echo "Error de algun tipo.";
                         break;
                 }
             ?>

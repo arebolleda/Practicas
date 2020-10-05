@@ -1,10 +1,10 @@
-<!--Ejercicio-6-->
+<!--Ejercicio-7-->
 <!--Marco Santiago-->
 <!DOCTYPE html>
 <html lang="es">
     <head>
         <title>
-           ej6
+           ej7
         </title>
         <link rel="icon" type="image/png" href="media/">
     </head>
